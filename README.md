@@ -1,6 +1,4 @@
-# Availability Component
-
-This React component (`Availability.tsx`) allows users to set their availability for each week using sliders. The component consists of sliders for each week, a dropdown to select the week, and a table to display the available days for the selected week.
+## This React app allows users to set their availability for each week using sliders. The component consists of sliders for each week, a dropdown to select the week, and a table to display the available days for the selected week.
 
 ## Running the Application
 
