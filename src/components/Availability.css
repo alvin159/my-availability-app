@@ -1,0 +1,68 @@
+.availability-container {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f7f7f7;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .week-container {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .week-info {
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .checkbox-container {
+    display: flex;
+    align-items: center;
+  }
+
+  .slider-container {
+    width: 90%;
+    margin: 0 auto;
+  }
+  
+  .week-select-label {
+    margin-right: 10px;
+    font-weight: bold;
+  }
+  
+  .week-select {
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    background-color: #ffffff;
+  }
+  
+  .table-container {
+    margin-top: 20px;
+  }
+  
+  .table-container table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .table-container td {
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  .table-container td:first-child {
+    width: 500px;
+    font-weight: bold;
+    background-color: #f2f2f2;
+  }
+
+  .table-container td:last-child {
+    text-align: center;
+    vertical-align: middle;
+  }
+  
